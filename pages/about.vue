@@ -1,6 +1,6 @@
 
 <script setup lang="ts">
-import PhotosComponent from '~/components/PhotosComponent.vue'
+import PhotosComponent from '~/components/PhotosComponentOptions.vue'
 </script>
 
 <template>
